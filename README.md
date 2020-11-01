@@ -1,1 +1,1 @@
-# advanced-model-of-face-mask-detector-for-covid-19-
+# advanced-model-of-face-mask-detector-for-covid-19
